@@ -1,5 +1,4 @@
 [package]
-authors = ["The wasm-bindgen Developers"]
 edition = "2021"
 name = "wasm-in-web-worker"
 publish = false
